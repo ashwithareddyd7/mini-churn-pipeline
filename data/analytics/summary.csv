@@ -1,0 +1,12 @@
+,customerID,gender,SeniorCitizen,Partner,Dependents,tenure,PhoneService,MultipleLines,InternetService,OnlineSecurity,OnlineBackup,DeviceProtection,TechSupport,StreamingTV,StreamingMovies,Contract,PaperlessBilling,PaymentMethod,MonthlyCharges,TotalCharges,Churn,tenure_group,avg_monthly_charges,churn_flag
+count,7043,7043,7043.0,7043,7043,7043.0,7043,7043,7043,7043,7043,7043,7043,7043,7043,7043,7043,7043,7043.0,7043.0,7043,7043,7043.0,7043.0
+unique,7043,2,,2,2,,2,3,3,3,3,3,3,3,3,3,2,4,,,2,5,,
+top,7590-VHVEG,Male,,No,No,,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,,,No,49-72,,
+freq,1,3555,,3641,4933,,6361,3390,3096,3498,3088,3095,3473,2810,2785,3875,4171,2365,,,5174,2239,,
+mean,,,0.1621468124378816,,,32.37114865824223,,,,,,,,,,,,,64.76169246059918,2279.7343035638223,,,64.69821757364208,0.2653698707936959
+std,,,0.3686116056100131,,,24.55948102309446,,,,,,,,,,,,,30.090047097678493,2266.7944696890213,,,30.270669542107335,0.441561305121947
+min,,,0.0,,,0.0,,,,,,,,,,,,,18.25,0.0,,,0.0,0.0
+25%,,,0.0,,,9.0,,,,,,,,,,,,,35.5,398.55,,,35.649,0.0
+50%,,,0.0,,,29.0,,,,,,,,,,,,,70.35,1394.55,,,70.3,0.0
+75%,,,0.0,,,55.0,,,,,,,,,,,,,89.85,3786.6,,,90.17415797317437,1.0
+max,,,1.0,,,72.0,,,,,,,,,,,,,118.75,8684.8,,,121.4,1.0
