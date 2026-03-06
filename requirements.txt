@@ -1,0 +1,8 @@
+streamlit
+pandas
+scikit-learn
+matplotlib
+shutil
+seaborn
+sqlit3
+
