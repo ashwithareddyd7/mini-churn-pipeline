@@ -5,4 +5,10 @@ matplotlib
 shutil
 seaborn
 sqlit3
+joblib
+requests
+numpy
+pydantic
+fastapi
+uvicorn
 
